@@ -1,7 +1,7 @@
 <h1> Lesson 18.2: Machine Learning and Artificial Intelligence  </h1>
 <h2> Summary</h2>
 
-<p1>In this lesson students will examine the emerging technology of AI and machine learning and how it relates to the cyber landscape..</p1>
+<p1>In this lesson students will examine the emerging technology of AI and machine learning and how it relates to the cyber landscape.</p1>
 <br>
 
 <h2>Learning Objectives</h2>
