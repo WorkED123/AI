@@ -126,6 +126,12 @@ It’s important to understand that machine learning is not a panacea, but it ca
 AI and ML are becoming integral to cybersecurity, and already are in many ways. While they can be used at different levels and capacities, there are algorithms and techniques that can make an organization's security run more smoothly and free up a security team’s time for other important tasks.
 
 
+<h2> Definitions</h2>
+<ul>
+<li><b>Artificial Intelligence (AI):</b> The simulation of human intelligence in machines that are designed to perform tasks that typically require human cognitive functions, such as learning, problem-solving, and decision-making.</li><br>
+<li><b>Machine Learning:</b> A subset of AI that involves training algorithms to learn from and make predictions or decisions based on data, without being explicitly programmed for each specific task.</li><br>
+<li><b>Algorithms:</b> A set of well-defined, step-by-step procedures or rules designed to perform a specific task or solve a problem, often used in computer programming and data analysis.</li>
+</ul>
 
 <h2> Presentation</h2>
 
@@ -133,6 +139,8 @@ AI and ML are becoming integral to cybersecurity, and already are in many ways. 
 
 
 <h2> Hands-On Labs</h2>
+
+<h2>Games</h2>
 
 <a href = "https://drive.google.com/file/d/1Vw2j5EedXWBvHjhGMm0xyMLyopgPtZZn/view?usp=sharing"> The Blockchain Game </a>
 
